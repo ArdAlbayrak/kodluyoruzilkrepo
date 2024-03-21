@@ -1,3 +1,4 @@
+### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -11,7 +12,10 @@
 # Built Visual Studio Code Extensions
 *.vsix
 
-# Img files
-img/
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# Portable Network Graphics
 *.png
-*.jpg
