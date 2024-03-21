@@ -13,3 +13,5 @@
 
 # Img files
 img/
+*.png
+*.jpg
